@@ -19,4 +19,4 @@ This project transforms raw EEG signals into **Smoothed Pseudo-Wigner–Ville Di
 
 ## 📂 Dataset
 
-📥 **[https://openneuro.org/datasets/ds004504/versions/1.0.7](#https://openneuro.org/datasets/ds004504/versions/1.0.7)**  : 
+📥 https://openneuro.org/datasets/ds004504/versions/1.0.7
