@@ -2,7 +2,7 @@
 
 A deep learning-based pipeline for automated classification of Alzheimer's Disease (AD), Frontotemporal Dementia (FTD), and Cognitively Normal (CN) individuals using EEG data.
 
-This project transforms raw EEG signals into **Smoothed Pseudo-Wigner–Ville Distribution (SPWVD)** spectrograms and classifies them using an **AlexNet-inspired Convolutional Neural Network**. Leveraging bipolar montage optimization and ensemble learning, the model achieves up to **79% accuracy** on validation data.
+This project transforms raw EEG signals into **Smoothed Pseudo-Wigner–Ville Distribution (SPWVD)** spectrograms and classifies them using an **AlexNet-inspired Convolutional Neural Network**. Leveraging bipolar montage optimization and ensemble learning, the model achieves up to **91% accuracy** on validation data.
 
 ---
 
